@@ -1,6 +1,6 @@
 # Heroku Django Starter Template
 
-An utterly fantastic project starter template for Django 1.8.
+An utterly fantastic project starter template for Django 1.8.2 and Python 3.4.0
 
 ## Features
 
